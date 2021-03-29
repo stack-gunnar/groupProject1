@@ -1,0 +1,80 @@
+
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+header{    
+    text-align: center;
+        width:25%;
+    }
+
+h1{
+    padding-top: 20px;
+    font-weight: bold;
+    font-size: 4.0rem;
+}
+
+#all{
+    padding-top: 15px;
+}
+
+nav{
+    padding: 1%;
+    /* padding-bottom: 60%; */
+    }
+
+nav#placesToGo{
+    text-align:center;
+    }
+  
+#map {
+    padding-top: 15px;  
+    height: 100%;
+    width: 100%;
+    margin-left: 2.5%;
+}
+
+.row {
+    height: 500px;
+}
+
+body{
+    background-attachment: fixed;
+    background-image:url(./background.jpeg);
+    /* Background image provided by 17qq.com */
+}
+
+h3{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+#dest-img {
+    max-width: fit-content;
+    max-height: auto;  
+
+}
+
+#points{
+    padding-bottom: 300%;
+    list-style-type: none;
+    text-align: center;
+}
+  
+.qrCode {
+container-fluid;
+margin-left:2%;
+text-align:center; 
+}
+   
+#destination-btn-container{
+margin-left: 3%;
+  }
+  
